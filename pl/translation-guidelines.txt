@@ -1,4 +1,3 @@
-
 Here's a list of agreed translation of the main concepts. Every concepts has
 several translations sorted by accuracy. Generally prefer the first
 translations.
@@ -17,3 +16,5 @@ commit - commit, zatwierdzenie
 staging area - przechowalnia
 
 staged - w przechowalni, śledzony
+
+repository - repozytorium/skład
